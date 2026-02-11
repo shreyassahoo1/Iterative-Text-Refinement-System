@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-%3E=3.8-blue)
+![License](https://img.shields.io/badge/License-Academic-green)
+![Status](https://img.shields.io/badge/Status-Completed-orange)
+
+
 # Iterative-Text-Refinement-System
 DSA project demonstrating circular linked list–based zonal text refinement for text documents. 
 
